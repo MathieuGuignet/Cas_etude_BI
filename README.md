@@ -2,3 +2,11 @@
 
 Création d'un dashboard/outil d'aide à la décision à partir d'un open data (SMMAG) en lien avec le réseau TAG et Transisère.
 Présentation des KPI à travers des visuels pertinents.
+
+Utilisation du processus ETL (Extract, Transform, Load)
+
+Utilisation de l'outil Power BI pour création du dashboard.
+
+Lien vers les API :
+hhtps://data.mobilites-m.fr/donnees
+
