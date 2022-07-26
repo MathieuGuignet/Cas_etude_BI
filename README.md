@@ -13,3 +13,8 @@ https://data.mobilites-m.fr/donnees
 Source de données, temps réel :
 https://data.metropolegrenoble.fr/ckan/dataset/horaires-temps-reel-du-reseau-tag
 
+
+
+---- dev
+Si le notebook est suivi dans git, tapez la commande suivante :
+git update-index --assume-unchanged data_explorer.ipynb
